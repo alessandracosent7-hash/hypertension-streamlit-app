@@ -176,15 +176,15 @@ presenti, possono essere selezionate per la visualizzazione.
 
 Notebook Google Colab
 
-> Inserire il link pubblico
+https://colab.research.google.com/drive/1x0_kINt-TXFxv8q3NEzZqBGuzSg84Icl?usp=sharing
 
 Applicazione Streamlit
 
-> Inserire il link dopo il deploy su Streamlit Community Cloud
+https://hypertension-forecasting.streamlit.app/
 
 Repository GitHub
 
-> Inserire il link GitHub
+https://github.com/alessandracosent7-hash/hypertension-streamlit-app
 
 ---
 
