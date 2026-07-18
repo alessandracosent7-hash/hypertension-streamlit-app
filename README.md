@@ -13,7 +13,7 @@ L'obiettivo del progetto è realizzare una pipeline completa di Data Science app
 ├── app.py                     # Applicazione Streamlit (Fase 3)
 ├── requirements.txt           # Librerie Python necessarie
 ├── README.md                  # Documentazione del progetto
-└── Relazione_Fase1_ISBI.docx  # Relazione sulla scelta del dataset (Fase 1)
+└── Relazione_Fase1_ISBI.pdf  # Relazione sulla scelta del dataset (Fase 1)
 ```
 
 ---
