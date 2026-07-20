@@ -11,6 +11,7 @@ L'obiettivo del progetto è realizzare una pipeline completa di Data Science app
 ```
 ├── PROGETTO_ISBI.ipynb        # Notebook Google Colab (Fase 2)
 ├── app.py                     # Applicazione Streamlit (Fase 3)
+├── patient_1_dataset.csv      # Dataset filtrato sul Patient_ID = 1 per il test dell'app
 ├── requirements.txt           # Librerie Python necessarie
 ├── README.md                  # Documentazione del progetto
 └── Relazione_Fase1_ISBI.docx  # Relazione sulla scelta del dataset (Fase 1)
