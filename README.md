@@ -42,6 +42,10 @@ Per garantire una maggiore fluidità dell'applicazione Streamlit durante il depl
 
 L'applicazione è stata comunque progettata per supportare dataset contenenti più pazienti. Infatti, quando il file caricato include più soggetti, è disponibile un menu che consente di selezionare interattivamente il paziente da analizzare.
 
+Per agevolare la verifica del progetto, nel repository GitHub è stato inoltre inserito il file `patient_1_dataset.csv`, ottenuto filtrando il dataset originale sul solo **Patient_ID = 1**. Tale file rappresenta il dataset utilizzato per l'analisi statistica e la modellazione sviluppate nella Fase 2 e consente di testare immediatamente l'applicazione Streamlit.
+
+Il file costituisce esclusivamente una derivazione del dataset originale, descritto e referenziato nella Relazione della Fase 1, nella quale sono riportati la fonte, l'URL Kaggle, la descrizione delle variabili e le motivazioni della scelta del dataset.
+
 ---
 
 ## Funzionalità dell'applicazione
